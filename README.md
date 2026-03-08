@@ -1,11 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=120&section=header&text=&animation=fadeIn" width="100%"/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=SE+Undergraduate+%40+SJTU;AI+%7C+Robotics+%7C+Reinforcement+Learning;Building+things+in+the+open." alt="Typing SVG" />
-</div>
-
-<br/>
-
 ## Hi, I'm Guztchian 👋
 
 I'm a Software Engineering student at **Shanghai Jiao Tong University**. I'm interested in AI, agents, robotics, and open-source software. Currently learning and building.
@@ -49,11 +41,8 @@ I'm a Software Engineering student at **Shanghai Jiao Tong University**. I'm int
   <img alt="contribution snake" src="https://raw.githubusercontent.com/DOGOGOD/DOGOGOD/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=80&section=footer" width="100%"/>
-
 <br/>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random quote"/>
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=80&section=footer" width="100%"/>
