@@ -35,6 +35,24 @@ I'm a Software Engineering student at **Shanghai Jiao Tong University**. I'm int
 
 <br/>
 
+<br/>
+
+## My Projects
+
+### 💣 [MineSweeper](https://github.com/DOGOGOD/MineSweeper) — C++ Console Minesweeper
+
+A classic Minesweeper game running in the terminal with full mouse support, colorful rendering, and three difficulty levels. Features flood-fill auto-expansion, chord (double-click) clearing, flag system, first-click protection, custom grid sizes, cross-platform support (Windows/macOS/Linux), timer, and sound effects. Built with a custom `CGT` console graphics library.
+
+### 📄 [Office-Preview](https://github.com/DOGOGOD/Office-Preview) — Obsidian Plugin
+
+An Obsidian plugin that lets you preview Word (.docx), PowerPoint (.pptx), and Excel (.xlsx) files directly inside Obsidian — no external apps needed. Supports zoom, one-click text copy, multi-sheet Excel navigation, auto file routing, light/dark theme adaptation, and mobile responsiveness. Built with TypeScript and the Obsidian Plugin API.
+
+### 📰 [WeRead](https://github.com/DOGOGOD/WeRead) — WeChat Article AI Digest
+
+A Python tool that subscribes to WeChat Official Accounts, periodically crawls their latest articles, and uses AI to generate personalized reading briefs. Features QR-code login, multi-account subscription, keyword filtering, cron-based scheduling, Playwright-based content extraction, and AI-powered summarization via OpenAI/Anthropic-compatible APIs.
+
+<br/>
+
 ## Contributions
 
 <picture>
@@ -44,9 +62,4 @@ I'm a Software Engineering student at **Shanghai Jiao Tong University**. I'm int
 </picture>
 
 <br/>
-<br/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="random quote"/>
-</div>
-<br/>
