@@ -43,6 +43,10 @@ I'm a Software Engineering student at **Shanghai Jiao Tong University**. I'm int
 
 A classic Minesweeper game running in the terminal with full mouse support, colorful rendering, and three difficulty levels. Features flood-fill auto-expansion, chord (double-click) clearing, flag system, first-click protection, custom grid sizes, cross-platform support (Windows/macOS/Linux), timer, and sound effects. Built with a custom `CGT` console graphics library.
 
+### 🐾 [SJTUClaw](https://github.com/your-username/SJTUClaw) — Local AI Agent Runtime
+
+A local AI Agent runtime designed for personal and educational use, integrating multi-turn conversations, tool calling, long-term memory, Skills, scheduled tasks, and a desktop companion. It provides multiple interfaces, including a Windows desktop app, Web UI, TUI, CLI, REST API, and QQ Bot, with built-in file operations, shell execution, web access, session management, context compression, approval workflows, Workspace security boundaries, and optional Sandbox isolation. SJTUClaw also supports three Agent backends: the native SJTUClaw Agent, Pi, and Claude Code.
+
 ### 📄 [Office-Preview](https://github.com/DOGOGOD/Office-Preview) — Obsidian Plugin
 
 An Obsidian plugin that lets you preview Word (.docx), PowerPoint (.pptx), and Excel (.xlsx) files directly inside Obsidian — no external apps needed. Supports zoom, one-click text copy, multi-sheet Excel navigation, auto file routing, light/dark theme adaptation, and mobile responsiveness. Built with TypeScript and the Obsidian Plugin API.
