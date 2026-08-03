@@ -77,7 +77,6 @@ My [personal site](https://dogogod.github.io) is a notebook and a quiet place to
   <img src="https://cdn.simpleicons.org/docker/2496ED" width="28" height="28" alt="Docker" title="Docker" align="center">&nbsp; <sub><b>Docker</b></sub>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/linux/FCC624" width="28" height="28" alt="Linux" title="Linux" align="center">&nbsp; <sub><b>Linux</b></sub>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/obsidian/7C3AED" width="28" height="28" alt="Obsidian" title="Obsidian" align="center">&nbsp; <sub><b>Obsidian</b></sub>&nbsp;&nbsp;&nbsp;
-  <sub><b>Playwright</b></sub>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/markdown/D97757" width="28" height="28" alt="Markdown" title="Markdown" align="center">&nbsp; <sub><b>Markdown</b></sub>
 </p>
 
