@@ -1,0 +1,258 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="3130" viewBox="0 0 1200 3130" role="img" aria-labelledby="title desc">
+  <title id="title">Guztchian — software engineering, AI, robotics, and thoughtful systems</title>
+  <desc id="desc">A warm editorial profile introducing Guztchian, selected projects, tools, and open-source contributions. The artwork adapts automatically to light and dark themes.</desc>
+
+  <style>
+    .bg { fill: #f5f1e8; }
+    .panel { fill: #eee8dc; }
+    .ink { fill: #292622; }
+    .muted { fill: #706960; }
+    .soft { fill: #9b9287; }
+    .line { stroke: #d5cdc0; }
+    .accent { fill: #d97757; }
+    .accent-stroke { stroke: #d97757; }
+    .tile { fill: #faf7f0; stroke: #d5cdc0; }
+    .activity { fill: #d8d0c4; }
+    .activity-1 { fill: #edc4b5; }
+    .activity-2 { fill: #df9479; }
+    .activity-3 { fill: #c96345; }
+    .serif { font-family: Georgia, 'Times New Roman', 'Songti SC', serif; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .round { stroke-linecap: round; stroke-linejoin: round; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #1e1d1a; }
+      .panel { fill: #282622; }
+      .ink { fill: #f1ebe1; }
+      .muted { fill: #bbb2a6; }
+      .soft { fill: #8d867d; }
+      .line { stroke: #403d37; }
+      .accent { fill: #e68a68; }
+      .accent-stroke { stroke: #e68a68; }
+      .tile { fill: #24221f; stroke: #403d37; }
+      .activity { fill: #3a3732; }
+      .activity-1 { fill: #71483b; }
+      .activity-2 { fill: #a35f49; }
+      .activity-3 { fill: #e68a68; }
+    }
+  </style>
+
+  <rect class="bg" width="1200" height="3130" rx="28"/>
+
+  <!-- Masthead -->
+  <g id="masthead">
+    <text class="sans muted" x="72" y="86" font-size="18" font-weight="600" letter-spacing="3">GUZTCHIAN / PERSONAL PROFILE</text>
+    <circle class="accent" cx="1090" cy="78" r="8"/>
+    <text class="sans muted" x="1062" y="115" text-anchor="end" font-size="16">Shanghai · China</text>
+    <line class="line" x1="72" y1="142" x2="1128" y2="142"/>
+
+    <text class="serif ink" x="72" y="242" font-size="74" letter-spacing="-2">Building useful systems</text>
+    <text class="serif ink" x="72" y="326" font-size="74" letter-spacing="-2">with intelligence <tspan class="accent">&amp; care.</tspan></text>
+
+    <g transform="translate(925 232)">
+      <circle class="accent-stroke" cx="82" cy="82" r="70" fill="none" stroke-width="2"/>
+      <circle class="accent" cx="82" cy="82" r="17"/>
+      <path class="accent-stroke round" d="M82 8v39M82 117v39M8 82h39M117 82h39M30 30l28 28M106 106l28 28M134 30l-28 28M58 106l-28 28" fill="none" stroke-width="7"/>
+    </g>
+
+    <text class="sans muted" x="74" y="410" font-size="22">Software Engineering at Shanghai Jiao Tong University</text>
+    <text class="sans muted" x="74" y="446" font-size="22">AI agents · computer vision · robotics · open source</text>
+  </g>
+
+  <!-- About -->
+  <g id="about" transform="translate(72 548)">
+    <text class="sans accent" x="0" y="0" font-size="18" font-weight="700" letter-spacing="3">01 / A LITTLE ABOUT ME</text>
+    <line class="line" x1="0" y1="34" x2="1056" y2="34"/>
+
+    <text class="serif ink" x="0" y="112" font-size="39">I wander between technology and literature —</text>
+    <text class="serif ink" x="0" y="164" font-size="39">describing the world with mathematics, reshaping it</text>
+    <text class="serif ink" x="0" y="216" font-size="39">with code, and understanding it through words.</text>
+
+    <text class="sans muted" x="0" y="294" font-size="22">I am drawn to the slow, stubborn work of teaching machines to perceive, reason, and act.</text>
+    <text class="sans muted" x="0" y="330" font-size="22">I am equally captivated by mathematics, physics, and space — and by the quiet audacity</text>
+    <text class="sans muted" x="0" y="366" font-size="22">of trying to understand the universe.</text>
+
+    <rect class="panel" x="0" y="420" width="1056" height="94" rx="10"/>
+    <text class="serif ink" x="28" y="459" font-size="22" font-style="italic">dogogod.github.io</text>
+    <text class="sans muted" x="28" y="490" font-size="18">A notebook and a quiet place to land — for technical reflections, project notes, and small moments worth keeping.</text>
+    <path class="accent-stroke round" d="M1002 457h22v22M1024 457l-29 29" fill="none" stroke-width="2.5"/>
+  </g>
+
+  <!-- Selected work -->
+  <g id="selected-work" transform="translate(72 1150)">
+    <text class="sans accent" x="0" y="0" font-size="18" font-weight="700" letter-spacing="3">02 / SELECTED WORK</text>
+    <line class="line" x1="0" y1="34" x2="1056" y2="34"/>
+
+    <g transform="translate(0 88)">
+      <text class="mono soft" x="0" y="27" font-size="18">01</text>
+      <text class="serif ink" x="74" y="30" font-size="36">SJTUClaw</text>
+      <text class="sans muted" x="74" y="72" font-size="20">A local AI agent runtime for personal and educational workflows, bringing conversations,</text>
+      <text class="sans muted" x="74" y="104" font-size="20">tool calling, memory, Skills, scheduling, and multiple interfaces into one system.</text>
+      <text class="mono accent" x="74" y="148" font-size="16">AI AGENTS · LOCAL-FIRST · TOOL USE · MEMORY</text>
+      <path class="accent-stroke round" d="M1028 13h22v22M1050 13l-29 29" fill="none" stroke-width="2.5"/>
+      <line class="line" x1="0" y1="182" x2="1056" y2="182"/>
+    </g>
+
+    <g transform="translate(0 304)">
+      <text class="mono soft" x="0" y="27" font-size="18">02</text>
+      <text class="serif ink" x="74" y="30" font-size="36">Office Preview</text>
+      <text class="sans muted" x="74" y="72" font-size="20">An Obsidian plugin for previewing Word, PowerPoint, and Excel files without leaving</text>
+      <text class="sans muted" x="74" y="104" font-size="20">your notes, with zoom, text copy, sheet navigation, responsive layouts, and themes.</text>
+      <text class="mono accent" x="74" y="148" font-size="16">TYPESCRIPT · OBSIDIAN API · DOCX · PPTX · XLSX</text>
+      <path class="accent-stroke round" d="M1028 13h22v22M1050 13l-29 29" fill="none" stroke-width="2.5"/>
+      <line class="line" x1="0" y1="182" x2="1056" y2="182"/>
+    </g>
+
+    <g transform="translate(0 520)">
+      <text class="mono soft" x="0" y="27" font-size="18">03</text>
+      <text class="serif ink" x="74" y="30" font-size="36">WeRead</text>
+      <text class="sans muted" x="74" y="72" font-size="20">A scheduled reading pipeline that collects recent WeChat articles, filters them by</text>
+      <text class="sans muted" x="74" y="104" font-size="20">interest, extracts their content, and creates personalized AI reading briefs.</text>
+      <text class="mono accent" x="74" y="148" font-size="16">PYTHON · PLAYWRIGHT · SCHEDULING · AI SUMMARIZATION</text>
+      <path class="accent-stroke round" d="M1028 13h22v22M1050 13l-29 29" fill="none" stroke-width="2.5"/>
+      <line class="line" x1="0" y1="182" x2="1056" y2="182"/>
+    </g>
+
+    <g transform="translate(0 736)">
+      <text class="mono soft" x="0" y="27" font-size="18">04</text>
+      <text class="serif ink" x="74" y="30" font-size="36">MineSweeper</text>
+      <text class="sans muted" x="74" y="72" font-size="20">A cross-platform C++ console game with mouse control, colorful rendering, flood-fill,</text>
+      <text class="sans muted" x="74" y="104" font-size="20">chord clearing, custom grids, first-click protection, timing, and sound effects.</text>
+      <text class="mono accent" x="74" y="148" font-size="16">C++ · CONSOLE GRAPHICS · MOUSE INPUT · CROSS-PLATFORM</text>
+      <path class="accent-stroke round" d="M1028 13h22v22M1050 13l-29 29" fill="none" stroke-width="2.5"/>
+    </g>
+  </g>
+
+  <!-- Tools -->
+  <g id="tools" transform="translate(72 2110)">
+    <text class="sans accent" x="0" y="0" font-size="18" font-weight="700" letter-spacing="3">03 / TOOLS I USE</text>
+    <line class="line" x1="0" y1="34" x2="1056" y2="34"/>
+
+    <g transform="translate(0 92)">
+      <text class="serif ink" x="0" y="26" font-size="27">Languages</text>
+      <g transform="translate(264 0)">
+        <rect class="tile" width="72" height="72" rx="14"/>
+        <text class="mono accent" x="36" y="45" text-anchor="middle" font-size="20" font-weight="700">C++</text>
+        <text class="sans muted" x="36" y="99" text-anchor="middle" font-size="16">C++</text>
+      </g>
+      <g transform="translate(382 0)">
+        <rect class="tile" width="72" height="72" rx="14"/>
+        <path class="accent-stroke round" d="M22 25c0-8 6-11 14-11h9c7 0 11 4 11 10v12H31c-8 0-12 5-12 12" fill="none" stroke-width="5"/>
+        <circle class="accent" cx="44" cy="22" r="2.5"/>
+        <text class="sans muted" x="36" y="99" text-anchor="middle" font-size="16">Python</text>
+      </g>
+      <g transform="translate(500 0)">
+        <rect class="tile" width="72" height="72" rx="14"/>
+        <rect class="accent-stroke" x="16" y="16" width="40" height="40" rx="3" fill="none" stroke-width="3"/>
+        <text class="mono accent" x="36" y="43" text-anchor="middle" font-size="18" font-weight="700">TS</text>
+        <text class="sans muted" x="36" y="99" text-anchor="middle" font-size="16">TypeScript</text>
+      </g>
+    </g>
+
+    <line class="line" x1="0" y1="232" x2="1056" y2="232"/>
+    <g transform="translate(0 278)">
+      <text class="serif ink" x="0" y="26" font-size="27">AI &amp; Vision</text>
+      <g transform="translate(264 0)">
+        <rect class="tile" width="72" height="72" rx="14"/>
+        <path class="accent-stroke round" d="M39 14c3 10-3 15-8 20-5 5-7 11-3 17 4 7 16 9 23 2 8-8 3-20-6-28 1 8-3 11-6 13 1-9-3-17-7-21" fill="none" stroke-width="4"/>
+        <text class="sans muted" x="36" y="99" text-anchor="middle" font-size="16">PyTorch</text>
+      </g>
+      <g transform="translate(382 0)">
+        <rect class="tile" width="72" height="72" rx="14"/>
+        <circle class="accent-stroke" cx="36" cy="25" r="10" fill="none" stroke-width="4"/>
+        <circle class="accent-stroke" cx="25" cy="45" r="10" fill="none" stroke-width="4"/>
+        <circle class="accent-stroke" cx="47" cy="45" r="10" fill="none" stroke-width="4"/>
+        <text class="sans muted" x="36" y="99" text-anchor="middle" font-size="16">OpenCV</text>
+      </g>
+      <g transform="translate(500 0)">
+        <rect class="tile" width="72" height="72" rx="14"/>
+        <circle class="accent-stroke" cx="36" cy="36" r="20" fill="none" stroke-width="3"/>
+        <circle class="accent-stroke" cx="36" cy="36" r="8" fill="none" stroke-width="3"/>
+        <path class="accent-stroke" d="M36 10v10M36 52v10M10 36h10M52 36h10" stroke-width="3"/>
+        <text class="sans muted" x="36" y="99" text-anchor="middle" font-size="16">YOLO</text>
+      </g>
+    </g>
+
+    <line class="line" x1="0" y1="418" x2="1056" y2="418"/>
+    <g transform="translate(0 464)">
+      <text class="serif ink" x="0" y="26" font-size="27">Robotics</text>
+      <g transform="translate(264 0)">
+        <rect class="tile" width="72" height="72" rx="14"/>
+        <path class="accent-stroke round" d="M36 14l20 11v22L36 58 16 47V25zM16 25l20 11 20-11M36 36v22" fill="none" stroke-width="3"/>
+        <text class="sans muted" x="36" y="99" text-anchor="middle" font-size="16">Isaac Sim</text>
+      </g>
+      <g transform="translate(382 0)">
+        <rect class="tile" width="72" height="72" rx="14"/>
+        <path class="accent-stroke round" d="M29 15h14M33 15v16L21 51c-3 5 1 8 6 8h18c5 0 9-3 6-8L39 31V15M27 46h18" fill="none" stroke-width="3.5"/>
+        <text class="sans muted" x="36" y="99" text-anchor="middle" font-size="16">Isaac Lab</text>
+      </g>
+      <g transform="translate(500 0)">
+        <rect class="tile" width="72" height="72" rx="14"/>
+        <path class="accent-stroke round" d="M52 27a19 19 0 0 0-32-5M20 22v-9M20 22h9M20 45a19 19 0 0 0 32 5M52 50v9M52 50h-9" fill="none" stroke-width="3.5"/>
+        <circle class="accent" cx="36" cy="36" r="5"/>
+        <text class="sans muted" x="36" y="99" text-anchor="middle" font-size="16">RL</text>
+      </g>
+    </g>
+
+    <line class="line" x1="0" y1="604" x2="1056" y2="604"/>
+    <g transform="translate(0 650)">
+      <text class="serif ink" x="0" y="26" font-size="27">Development</text>
+      <g transform="translate(264 0)">
+        <rect class="tile" width="72" height="72" rx="14"/>
+        <path class="accent-stroke round" d="M24 18v25a10 10 0 0 0 10 10h14M24 29h18a8 8 0 0 1 8 8v1" fill="none" stroke-width="3.5"/>
+        <circle class="accent" cx="24" cy="18" r="5"/><circle class="accent" cx="24" cy="43" r="5"/><circle class="accent" cx="50" cy="42" r="5"/>
+        <text class="sans muted" x="36" y="99" text-anchor="middle" font-size="16">Git</text>
+      </g>
+      <g transform="translate(382 0)">
+        <rect class="tile" width="72" height="72" rx="14"/>
+        <path class="accent-stroke round" d="M15 37h42c-1 12-9 20-22 20-12 0-19-7-20-20zM23 27h9v9h-9zM33 27h9v9h-9zM43 27h9v9h-9zM33 17h9v9h-9z" fill="none" stroke-width="2.6"/>
+        <text class="sans muted" x="36" y="99" text-anchor="middle" font-size="16">Docker</text>
+      </g>
+      <g transform="translate(500 0)">
+        <rect class="tile" width="72" height="72" rx="14"/>
+        <ellipse class="accent-stroke" cx="36" cy="39" rx="17" ry="21" fill="none" stroke-width="3"/>
+        <circle class="accent" cx="30" cy="31" r="2.5"/><circle class="accent" cx="42" cy="31" r="2.5"/>
+        <path class="accent-stroke round" d="M31 40q5 4 10 0M23 55l-7 5M49 55l7 5" fill="none" stroke-width="3"/>
+        <text class="sans muted" x="36" y="99" text-anchor="middle" font-size="16">Linux</text>
+      </g>
+      <g transform="translate(618 0)">
+        <rect class="tile" width="72" height="72" rx="14"/>
+        <path class="accent-stroke round" d="M36 12l18 13-5 28-13 8-16-10-4-27zM16 24l20 8 18-7M36 32v29M20 51l16-19 13 21" fill="none" stroke-width="3"/>
+        <text class="sans muted" x="36" y="99" text-anchor="middle" font-size="16">Obsidian</text>
+      </g>
+      <g transform="translate(736 0)">
+        <rect class="tile" width="72" height="72" rx="14"/>
+        <path class="accent-stroke round" d="M15 22q10-7 21 0v25q-11 8-21 0zM36 25q10-7 21 0v25q-11 8-21 0z" fill="none" stroke-width="3"/>
+        <circle class="accent" cx="26" cy="34" r="2"/><circle class="accent" cx="47" cy="37" r="2"/>
+        <path class="accent-stroke round" d="M22 43q5 4 10 0M43 46q5-4 10 0" fill="none" stroke-width="2"/>
+        <text class="sans muted" x="36" y="99" text-anchor="middle" font-size="16">Playwright</text>
+      </g>
+      <g transform="translate(854 0)">
+        <rect class="tile" width="72" height="72" rx="14"/>
+        <rect class="accent-stroke" x="12" y="20" width="48" height="34" rx="4" fill="none" stroke-width="3"/>
+        <path class="accent-stroke round" d="M19 45V29l8 10 8-10v16M47 29v16M41 39l6 6 6-6" fill="none" stroke-width="2.8"/>
+        <text class="sans muted" x="36" y="99" text-anchor="middle" font-size="16">Markdown</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Contributions -->
+  <g id="contributions" transform="translate(72 2965)">
+    <text class="sans accent" x="0" y="0" font-size="18" font-weight="700" letter-spacing="3">04 / CONTRIBUTIONS</text>
+    <text class="serif ink" x="0" y="58" font-size="25" font-style="italic">Learning steadily, building thoughtfully,</text>
+    <text class="serif ink" x="0" y="91" font-size="25" font-style="italic">and sharing what I can.</text>
+
+    <g transform="translate(740 -16)">
+      <g>
+        <rect class="activity" x="0" y="0" width="14" height="14" rx="3"/><rect class="activity-1" x="22" y="0" width="14" height="14" rx="3"/><rect class="activity" x="44" y="0" width="14" height="14" rx="3"/><rect class="activity-2" x="66" y="0" width="14" height="14" rx="3"/><rect class="activity" x="88" y="0" width="14" height="14" rx="3"/><rect class="activity-1" x="110" y="0" width="14" height="14" rx="3"/><rect class="activity-3" x="132" y="0" width="14" height="14" rx="3"/><rect class="activity" x="154" y="0" width="14" height="14" rx="3"/><rect class="activity-2" x="176" y="0" width="14" height="14" rx="3"/><rect class="activity" x="198" y="0" width="14" height="14" rx="3"/><rect class="activity-1" x="220" y="0" width="14" height="14" rx="3"/><rect class="activity-3" x="242" y="0" width="14" height="14" rx="3"/><rect class="activity-2" x="264" y="0" width="14" height="14" rx="3"/><rect class="activity" x="286" y="0" width="14" height="14" rx="3"/><rect class="activity-1" x="308" y="0" width="14" height="14" rx="3"/>
+        <rect class="activity-1" x="0" y="22" width="14" height="14" rx="3"/><rect class="activity" x="22" y="22" width="14" height="14" rx="3"/><rect class="activity-2" x="44" y="22" width="14" height="14" rx="3"/><rect class="activity" x="66" y="22" width="14" height="14" rx="3"/><rect class="activity-1" x="88" y="22" width="14" height="14" rx="3"/><rect class="activity-3" x="110" y="22" width="14" height="14" rx="3"/><rect class="activity-1" x="132" y="22" width="14" height="14" rx="3"/><rect class="activity-2" x="154" y="22" width="14" height="14" rx="3"/><rect class="activity" x="176" y="22" width="14" height="14" rx="3"/><rect class="activity-3" x="198" y="22" width="14" height="14" rx="3"/><rect class="activity-1" x="220" y="22" width="14" height="14" rx="3"/><rect class="activity" x="242" y="22" width="14" height="14" rx="3"/><rect class="activity-2" x="264" y="22" width="14" height="14" rx="3"/><rect class="activity-3" x="286" y="22" width="14" height="14" rx="3"/><rect class="activity-1" x="308" y="22" width="14" height="14" rx="3"/>
+        <rect class="activity" x="0" y="44" width="14" height="14" rx="3"/><rect class="activity-2" x="22" y="44" width="14" height="14" rx="3"/><rect class="activity-1" x="44" y="44" width="14" height="14" rx="3"/><rect class="activity-3" x="66" y="44" width="14" height="14" rx="3"/><rect class="activity" x="88" y="44" width="14" height="14" rx="3"/><rect class="activity-2" x="110" y="44" width="14" height="14" rx="3"/><rect class="activity" x="132" y="44" width="14" height="14" rx="3"/><rect class="activity-1" x="154" y="44" width="14" height="14" rx="3"/><rect class="activity-3" x="176" y="44" width="14" height="14" rx="3"/><rect class="activity-2" x="198" y="44" width="14" height="14" rx="3"/><rect class="activity" x="220" y="44" width="14" height="14" rx="3"/><rect class="activity-1" x="242" y="44" width="14" height="14" rx="3"/><rect class="activity-3" x="264" y="44" width="14" height="14" rx="3"/><rect class="activity" x="286" y="44" width="14" height="14" rx="3"/><rect class="activity-2" x="308" y="44" width="14" height="14" rx="3"/>
+      </g>
+      <path class="accent-stroke round" d="M7 51c34 0 39-37 73-37s39 44 74 44 40-36 75-36 40 22 86 22" fill="none" stroke-width="3"/>
+    </g>
+  </g>
+
+  <line class="line" x1="72" y1="3085" x2="1128" y2="3085"/>
+  <text class="mono soft" x="72" y="3115" font-size="14">DOGOGOD · 2026</text>
+  <text class="mono soft" x="1128" y="3115" text-anchor="end" font-size="14">THINK · BUILD · SHARE</text>
+</svg>
