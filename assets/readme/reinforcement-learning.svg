@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-labelledby="title desc">
+  <title id="title">Reinforcement learning</title>
+  <desc id="desc">A loop connecting state, action, and reward.</desc>
+  <circle cx="24" cy="24" r="19" fill="none" stroke="#D97757" stroke-width="3"/>
+  <circle cx="24" cy="8" r="4" fill="#D97757"/>
+  <circle cx="39" cy="29" r="4" fill="#D97757"/>
+  <circle cx="12" cy="36" r="4" fill="#D97757"/>
+  <path d="M29 8C36 10 41 16 42 23" fill="none" stroke="#D97757" stroke-width="3" stroke-linecap="round"/>
+  <path d="M41 19L42 24L37 22" fill="none" stroke="#D97757" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M36 34C31 40 23 43 16 40" fill="none" stroke="#D97757" stroke-width="3" stroke-linecap="round"/>
+  <path d="M20 42L15 40L18 36" fill="none" stroke="#D97757" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M8 31C5 24 7 16 14 11" fill="none" stroke="#D97757" stroke-width="3" stroke-linecap="round"/>
+  <path d="M10 12L15 10L14 15" fill="none" stroke="#D97757" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
