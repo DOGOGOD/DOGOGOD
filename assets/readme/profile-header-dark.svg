@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="320" viewBox="0 0 1200 320"
+     role="img" aria-labelledby="title desc">
+  <title id="title">Guztchian — software engineering, AI, vision, and robotics</title>
+  <desc id="desc">A warm dark editorial profile header introducing Guztchian and current interests in local AI agents, visual intelligence, and robot learning.</desc>
+
+  <rect width="1200" height="320" rx="20" fill="#1C1A17"/>
+  <rect x="1" y="1" width="1198" height="318" rx="19" fill="none" stroke="#3A352E"/>
+
+  <g id="identity" transform="translate(58 46)"
+     font-family="Georgia, Songti SC, Times New Roman, serif">
+    <circle cx="6" cy="6" r="6" fill="#E08361"/>
+    <text x="26" y="12" fill="#B9B0A3" font-size="18" font-weight="600" letter-spacing="1.5">
+      SOFTWARE ENGINEERING · SJTU
+    </text>
+
+    <text x="0" y="104" fill="#F5F0E6" font-size="76" font-weight="500" letter-spacing="-1.2">
+      Guztchian
+    </text>
+
+    <text x="2" y="158" fill="#E1D9CD" font-size="29">
+      Building small, useful systems around
+    </text>
+    <text x="2" y="198" fill="#E1D9CD" font-size="29">
+      AI, vision, robotics, and open source.
+    </text>
+
+    <text x="2" y="244" fill="#A49B8E" font-size="18" letter-spacing="0.6">
+      SHANGHAI · LEARNING, BUILDING, SHARING
+    </text>
+  </g>
+
+  <path d="M770 44V276" stroke="#3A352E"/>
+
+  <g id="current-interests" transform="translate(820 57)"
+     font-family="Georgia, Songti SC, Times New Roman, serif">
+    <text x="0" y="0" fill="#A49B8E" font-size="18" font-weight="600" letter-spacing="1.2">
+      CURRENTLY CURIOUS ABOUT
+    </text>
+
+    <circle cx="7" cy="57" r="5" fill="#E08361"/>
+    <text x="28" y="65" fill="#F5F0E6" font-size="23">Local AI agents</text>
+    <text x="28" y="91" fill="#A49B8E" font-size="18">tools · memory · interfaces</text>
+
+    <circle cx="7" cy="133" r="5" fill="#E08361"/>
+    <text x="28" y="141" fill="#F5F0E6" font-size="23">Visual intelligence</text>
+    <text x="28" y="167" fill="#A49B8E" font-size="18">OpenCV · YOLO · PyTorch</text>
+
+    <circle cx="7" cy="209" r="5" fill="#E08361"/>
+    <text x="28" y="217" fill="#F5F0E6" font-size="23">Robot learning</text>
+    <text x="28" y="243" fill="#A49B8E" font-size="18">Isaac Sim · Isaac Lab · RL</text>
+  </g>
+</svg>

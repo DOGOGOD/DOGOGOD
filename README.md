@@ -1,69 +1,46 @@
-<br/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/profile-header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/readme/profile-header-light.svg">
+    <img src="./assets/readme/profile-header-light.svg" width="100%" alt="Guztchian, a software engineering student building useful systems around AI, vision, robotics, and open source">
+  </picture>
+</p>
 
-## Hi, I'm Guztchian 👋
+## A little about me
 
-I'm a Software Engineering student at **Shanghai Jiao Tong University**. I'm interested in AI, agents, robotics, and open-source software. Currently learning and building.
+I'm a Software Engineering student at **Shanghai Jiao Tong University**. I'm interested in how intelligent systems see, reason, and interact with the world, and I enjoy turning those ideas into small tools that people can actually use.
 
-- 📐 Solid foundation in Maths — Mathematical Analysis, Linear Algebra, Discrete math, Probability and Statistics
-- 🌍 Open source enthusiast who loves creating new things
-- 🤖 Worked on visual algorithms with **YOLO** & **OpenCV**
-- 🦾 Robot simulation & RL training with **Isaac Sim** / **Isaac Lab**
+Right now, I'm learning more about **AI agents**, **reinforcement learning**, and **embodied intelligence**, supported by a foundation in Mathematical Analysis, Linear Algebra, Discrete Mathematics, Probability, and Statistics.
 
-<br/>
+## Selected work
 
-## Tech Stack
+- **[SJTUClaw](https://github.com/DOGOGOD/SJTUClaw)** — a local AI agent runtime with tool calling, memory, scheduled tasks, and multiple interfaces.
+- **[Office Preview](https://github.com/DOGOGOD/Office-Preview)** — preview Word, PowerPoint, and Excel files directly inside Obsidian.
+- **[WeRead](https://github.com/DOGOGOD/WeRead)** — collect subscribed WeChat articles and turn them into personalized AI reading briefs.
+- **[MineSweeper](https://github.com/DOGOGOD/MineSweeper)** — a cross-platform C++ console Minesweeper with mouse input and colorful rendering.
 
-**Languages**
+## Tools I use
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,py,ts,pytorch,opencv,git,docker,linux&theme=dark&perline=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,py,ts,pytorch,opencv,git,docker,linux&theme=light&perline=8">
+    <img src="https://skillicons.dev/icons?i=cpp,py,ts,pytorch,opencv,git,docker,linux&theme=light&perline=8" alt="C++, Python, TypeScript, PyTorch, OpenCV, Git, Docker, and Linux">
+  </picture>
+</p>
 
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-
-**AI / CV / Robotics**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-111111?style=flat-square&logo=yolo&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Isaac Lab](https://img.shields.io/badge/Isaac%20Lab-76B900?style=flat-square&logo=nvidia&logoColor=white)
-
-<br/>
-
-<br/>
-
-## My Projects
-
-### 💣 [MineSweeper](https://github.com/DOGOGOD/MineSweeper) — C++ Console Minesweeper
-
-A classic Minesweeper game running in the terminal with full mouse support, colorful rendering, and three difficulty levels. Features flood-fill auto-expansion, chord (double-click) clearing, flag system, first-click protection, custom grid sizes, cross-platform support (Windows/macOS/Linux), timer, and sound effects. Built with a custom `CGT` console graphics library.
-
-### 🐾 [SJTUClaw](https://github.com/your-username/SJTUClaw) — Local AI Agent Runtime
-
-A local AI Agent runtime designed for personal and educational use, integrating multi-turn conversations, tool calling, long-term memory, Skills, scheduled tasks, and a desktop companion. It provides multiple interfaces, including a Windows desktop app, Web UI, TUI, CLI, REST API, and QQ Bot, with built-in file operations, shell execution, web access, session management, context compression, approval workflows, Workspace security boundaries, and optional Sandbox isolation. SJTUClaw also supports three Agent backends: the native SJTUClaw Agent, Pi, and Claude Code.
-
-### 📄 [Office-Preview](https://github.com/DOGOGOD/Office-Preview) — Obsidian Plugin
-
-An Obsidian plugin that lets you preview Word (.docx), PowerPoint (.pptx), and Excel (.xlsx) files directly inside Obsidian — no external apps needed. Supports zoom, one-click text copy, multi-sheet Excel navigation, auto file routing, light/dark theme adaptation, and mobile responsiveness. Built with TypeScript and the Obsidian Plugin API.
-
-### 📰 [WeRead](https://github.com/DOGOGOD/WeRead) — WeChat Article AI Digest
-
-A Python tool that subscribes to WeChat Official Accounts, periodically crawls their latest articles, and uses AI to generate personalized reading briefs. Features QR-code login, multi-account subscription, keyword filtering, cron-based scheduling, Playwright-based content extraction, and AI-powered summarization via OpenAI/Anthropic-compatible APIs.
-
-<br/>
+<p align="center">
+  <sub>Also working with YOLO, Isaac Sim, Isaac Lab, reinforcement learning, and local AI agent systems.</sub>
+</p>
 
 ## Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DOGOGOD/DOGOGOD/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DOGOGOD/DOGOGOD/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/DOGOGOD/DOGOGOD/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DOGOGOD/DOGOGOD/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DOGOGOD/DOGOGOD/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/DOGOGOD/DOGOGOD/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution graph rendered as a snake path">
 </picture>
 
-<br/>
-
+<p align="center">
+  <i>Learning steadily, building thoughtfully, and sharing what I can.</i> 🌱
+</p>
