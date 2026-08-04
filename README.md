@@ -32,9 +32,9 @@ My [personal site](https://dogogod.github.io) is a notebook and a quiet place to
 
 ### 03 · [WeRead](https://github.com/DOGOGOD/WeRead)
 
-**A scheduled reading pipeline for WeChat Official Accounts.** It collects recent articles, filters them around personal interests, extracts the useful content with Playwright, and turns it into concise AI reading briefs.
+**A scheduled reading pipeline for WeChat Official Accounts.** It collects recent articles, filters them around personal interests, extracts the useful content, and turns it into concise AI reading briefs.
 
-<sub>Python · Playwright · Scheduling · AI summarization</sub>
+<sub>Python · Content extraction · Scheduling · AI summarization</sub>
 
 ### 04 · [MineSweeper](https://github.com/DOGOGOD/MineSweeper)
 
@@ -51,7 +51,7 @@ My [personal site](https://dogogod.github.io) is a notebook and a quiet place to
 <p>
   <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="28" height="28" alt="C++" title="C++" align="center">&nbsp; <sub><b>C++</b></sub>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/python/3776AB" width="28" height="28" alt="Python" title="Python" align="center">&nbsp; <sub><b>Python</b></sub>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="28" height="28" alt="TypeScript" title="TypeScript" align="center">&nbsp; <sub><b>TypeScript</b></sub>
+  <img src="./assets/readme/typescript.svg" width="28" height="28" alt="TypeScript" title="TypeScript" align="center">&nbsp; <sub><b>TypeScript</b></sub>
 </p>
 
 ### AI & Vision
