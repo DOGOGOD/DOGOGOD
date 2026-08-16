@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/readme/profile-page-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/readme/profile-page-light.svg">
-    <img src="./assets/readme/profile-page-light.svg" width="100%" alt="Guztchian — a Software Engineering student building practical systems around AI, agents, computer vision, and robotics; selected projects include SJTUClaw, Office Preview, WeRead, and MineSweeper">
+    <img src="./assets/readme/profile-page-light.svg" width="100%" alt="Guztchian: a Software Engineering student building practical systems around AI, agents, computer vision, and robotics; selected projects include SJTUClaw, Office Preview, WeRead, and MineSweeper">
   </picture>
 </p>
 
