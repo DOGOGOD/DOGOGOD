@@ -40,40 +40,40 @@
     <text x="92" y="746" fill="#D97757" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" letter-spacing="1.5">01</text>
     <text x="92" y="790" fill="#24231F" font-family="Georgia, 'Times New Roman', serif" font-size="31">SJTUClaw</text>
     <text x="530" y="756" fill="#6F6D66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24">↗</text>
-    <text x="92" y="832" fill="#6F6D66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19">Local AI agent runtime for personal workflows.</text>
-    <text x="92" y="861" fill="#6F6D66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19">Tools, memory, scheduling, and many interfaces in one place.</text>
+    <text x="92" y="832" fill="#6F6D66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17">Local AI agent runtime for personal workflows.</text>
+    <text x="92" y="861" fill="#6F6D66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17">Tools, memory, scheduling, and many interfaces in one place.</text>
     <line x1="92" y1="885" x2="554" y2="885" stroke="#D8D5CD"/>
-    <text x="92" y="912" fill="#6F6D66" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" letter-spacing=".35">AI AGENTS · LOCAL-FIRST · MEMORY · TOOL USE</text>
+    <text x="92" y="912" fill="#6F6D66" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" letter-spacing=".3">AI AGENTS · LOCAL-FIRST · MEMORY · TOOL USE</text>
   </g>
     <g id="project-02">
     <rect x="618" y="708" width="518" height="220" rx="22" fill="#EFEEE8" stroke="#D8D5CD"/>
     <text x="646" y="746" fill="#D97757" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" letter-spacing="1.5">02</text>
     <text x="646" y="790" fill="#24231F" font-family="Georgia, 'Times New Roman', serif" font-size="31">Office Preview</text>
     <text x="1084" y="756" fill="#6F6D66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24">↗</text>
-    <text x="646" y="832" fill="#6F6D66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19">Read Word, PowerPoint, and Excel inside Obsidian.</text>
-    <text x="646" y="861" fill="#6F6D66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19">Responsive previews, navigation, copy, and themes.</text>
+    <text x="646" y="832" fill="#6F6D66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17">Read Word, PowerPoint, and Excel inside Obsidian.</text>
+    <text x="646" y="861" fill="#6F6D66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17">Responsive previews, navigation, copy, and themes.</text>
     <line x1="646" y1="885" x2="1108" y2="885" stroke="#D8D5CD"/>
-    <text x="646" y="912" fill="#6F6D66" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" letter-spacing=".35">TYPESCRIPT · OBSIDIAN API · DOCX · PPTX · XLSX</text>
+    <text x="646" y="912" fill="#6F6D66" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" letter-spacing=".3">TYPESCRIPT · OBSIDIAN API · DOCX · PPTX · XLSX</text>
   </g>
     <g id="project-03">
     <rect x="64" y="956" width="518" height="220" rx="22" fill="#EFEEE8" stroke="#D8D5CD"/>
     <text x="92" y="994" fill="#D97757" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" letter-spacing="1.5">03</text>
     <text x="92" y="1038" fill="#24231F" font-family="Georgia, 'Times New Roman', serif" font-size="31">WeRead</text>
     <text x="530" y="1004" fill="#6F6D66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24">↗</text>
-    <text x="92" y="1080" fill="#6F6D66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19">Scheduled reading pipeline for WeChat articles.</text>
-    <text x="92" y="1109" fill="#6F6D66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19">Filters sources and turns them into concise AI briefs.</text>
+    <text x="92" y="1080" fill="#6F6D66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17">Scheduled reading pipeline for WeChat articles.</text>
+    <text x="92" y="1109" fill="#6F6D66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17">Filters sources and turns them into concise AI briefs.</text>
     <line x1="92" y1="1133" x2="554" y2="1133" stroke="#D8D5CD"/>
-    <text x="92" y="1160" fill="#6F6D66" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" letter-spacing=".35">PYTHON · CONTENT EXTRACTION · SCHEDULING · AI</text>
+    <text x="92" y="1160" fill="#6F6D66" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" letter-spacing=".3">PYTHON · CONTENT EXTRACTION · SCHEDULING · AI</text>
   </g>
     <g id="project-04">
     <rect x="618" y="956" width="518" height="220" rx="22" fill="#EFEEE8" stroke="#D8D5CD"/>
     <text x="646" y="994" fill="#D97757" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" letter-spacing="1.5">04</text>
     <text x="646" y="1038" fill="#24231F" font-family="Georgia, 'Times New Roman', serif" font-size="31">MineSweeper</text>
     <text x="1084" y="1004" fill="#6F6D66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24">↗</text>
-    <text x="646" y="1080" fill="#6F6D66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19">Cross-platform C++ Minesweeper for the console.</text>
-    <text x="646" y="1109" fill="#6F6D66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19">Mouse input, custom grids, timing, and sound.</text>
+    <text x="646" y="1080" fill="#6F6D66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17">Cross-platform C++ Minesweeper for the console.</text>
+    <text x="646" y="1109" fill="#6F6D66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17">Mouse input, custom grids, timing, and sound.</text>
     <line x1="646" y1="1133" x2="1108" y2="1133" stroke="#D8D5CD"/>
-    <text x="646" y="1160" fill="#6F6D66" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" letter-spacing=".35">C++ · CONSOLE UI · MOUSE INPUT · CROSS-PLATFORM</text>
+    <text x="646" y="1160" fill="#6F6D66" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" letter-spacing=".3">C++ · CONSOLE UI · MOUSE INPUT · CROSS-PLATFORM</text>
   </g>
   </g>
 
